@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "911364287278",
+    "project_id": "taruguru-573e3",
+    "storage_bucket": "taruguru-573e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911364287278:android:3f22d9c6290f1d9a4aa8bf",
+        "android_client_info": {
+          "package_name": "com.example.taruguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911364287278-c8vijgcd7q50mjacvpu6r1kocujcamf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taruguru",
+            "certificate_hash": "62e0234a9df93ed65a477fc1c6e61938a6740bb3"
+          }
+        },
+        {
+          "client_id": "911364287278-797pqhubepin12qdvdao57j7g4kg6vbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0UdwwPYpp6OHl9Jxy5h4zF-4yVOlvg3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911364287278-797pqhubepin12qdvdao57j7g4kg6vbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
