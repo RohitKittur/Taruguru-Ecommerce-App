@@ -1,16 +1,13 @@
-# taruguru
+# Taruguru-Ecommerce-App
 
-A new Flutter project.
+# ScreenShots
 
-## Getting Started
+![home](https://user-images.githubusercontent.com/93477607/158612446-86bb7075-23b5-458f-b117-9258352d7a16.jpg)
 
-This project is a starting point for a Flutter application.
+![Inital](https://user-images.githubusercontent.com/93477607/158612507-34b95817-4e78-45f4-ad8b-8e9f76663887.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_20220316-194702](https://user-images.githubusercontent.com/93477607/158612585-b8d84894-91f9-4f71-ae97-daa98d7b96f0.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![products](https://user-images.githubusercontent.com/93477607/158612617-542ebd6f-be3f-4673-8cf8-b3bb2c345d64.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![product](https://user-images.githubusercontent.com/93477607/158612636-8078bdaf-ee7b-4597-8d16-63757856e113.jpg)
