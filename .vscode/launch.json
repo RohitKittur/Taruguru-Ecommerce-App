@@ -16,7 +16,7 @@
         {
             "name": "taruguru (profile mode)",
             "request": "launch",
-            "type": "dart",
+            "type": "dart", 
             "flutterMode": "profile"
         }
     ]
